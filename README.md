@@ -13,3 +13,5 @@ chmod +x ssh_con.sh
 ```bash
 ./ssh_con.sh
 ```
+
+![Terminal Screenshoot](/terminal.png)
