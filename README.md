@@ -6,5 +6,10 @@
 
 
 ```bash
-  chmod +x ssh_con.sh
+chmod +x ssh_con.sh
+```
+
+## 2. Now you can run the script in the terminal :
+```bash
+./ssh_con.sh
 ```
