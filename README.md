@@ -1,5 +1,5 @@
 # Bash_SSH_Script
-**This is a bash script to manage multiple linux servers for an easy connection to a specific server**
+**This is a bash script to manage multiple linux servers for an easy connection over ssh to a specific server**
 
 
 ## 1. You must to grant **execute** right for the script to run in the terminal :
